@@ -1,26 +1,37 @@
-# Lama Dev School Management Dashboard
+# School Portal
+A comprehensive School Management System designed to streamline administrative tasks, manage student information, 
+and enhance communication between students, teachers, and administrators.
 
-## Getting Started
+Features
 
-First, run the development server:
+# Students
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+-View personal profiles and academic performance.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+-Access course schedules and assignments.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+-Track attendance records.
 
-## Learn More
+# Teachers
 
-To learn more about Next.js, take a look at the following resources:
+-Manage class schedules and attendance.
 
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)
+-Assign and grade assignments.
+
+-Communicate with students and parents.
+
+# Administrators
+
+-Manage student and teacher records.
+
+-Monitor school operations.
+
+-Performs Database operations like Adding new teachers,Parents,students as well as DELETION OPERATION.
+
+-Posting announcements and upcoming school events.
+
+# Parents 
+
+-View their child’s academic performance.
+
+-Communicate with teachers.
