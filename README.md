@@ -4,7 +4,7 @@ and enhance communication between students, teachers, and administrators.
 
 Features
 
-#Students
+# Students
 
 -View personal profiles and academic performance.
 
@@ -12,7 +12,7 @@ Features
 
 -Track attendance records.
 
-#Teachers
+# Teachers
 
 -Manage class schedules and attendance.
 
@@ -20,7 +20,7 @@ Features
 
 -Communicate with students and parents.
 
-#Administrators
+# Administrators
 
 -Manage student and teacher records.
 
@@ -30,7 +30,7 @@ Features
 
 -Posting announcements and upcoming school events.
 
-#Parents 
+# Parents 
 
 -View their child’s academic performance.
 
