@@ -1,6 +1,10 @@
+import UserCard from "@/components/UserCard"
+
 const ParentPage = () => {
   return (
-    <div>ParentPage</div>
+    <div>
+      <UserCard/>
+    </div>
   )
 }
 
